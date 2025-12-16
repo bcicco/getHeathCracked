@@ -15,3 +15,7 @@ address: str
 
 The difference between pydantic and classes is that python will let you by default do:
 Dog(name = 'heathman', color = 2, address = '26 ya mums house' ) at runtime, pydantic will error out
+
+def suck_dick(heath, penis):
+dskjhsdfajkkjfdshfsd
+return
