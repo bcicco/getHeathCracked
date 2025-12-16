@@ -19,3 +19,15 @@ Dog(name = 'heathman', color = 2, address = '26 ya mums house' ) at runtime, pyd
 def suck_dick(heath, penis):
 dskjhsdfajkkjfdshfsd
 return
+
+# Task 1:
+
+Install pydantic
+
+# Task 2:
+
+From pydantic import BaseModel
+
+# Task 3:
+
+Write a pydantic class for penis, it should have girth as an integer, length as an integer, and smell as a string, circumsised as boolean
